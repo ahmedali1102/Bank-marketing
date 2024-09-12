@@ -6,3 +6,7 @@ The data is related to direct marketing campaign direct marketing campaigns of a
 
 
 We created a group of cluster to show which customer are likely to subscribe.
+
+Here's the video explanation of the above code 
+
+https://1drv.ms/v/c/46e17f20539c6739/EfJWh-N1BNlHpERfYnPZH1IBbUUo-3cgfOzEGTPTsMq8oA?e=AFLZZe
